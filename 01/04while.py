@@ -1,6 +1,6 @@
 """
 1、while循环
-2、break跳出当前循环
+2、break结束当前循环
 3、continue跳出此次循环，执行下一次循环
 """
 age = 18
